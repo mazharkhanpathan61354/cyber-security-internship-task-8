@@ -66,15 +66,6 @@ ProtonVPN Free Tier
 
 ---
 
-## Screenshots
-
-1. ProtonVPN connected status:  
-![VPN Connected](screenshots/vpn_connected.png)
-
-2. IP address before and after VPN connection:  
-![IP Change](screenshots/ip_change.png)
-
----
 
 ## Conclusion
 
